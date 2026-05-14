@@ -2,5 +2,7 @@ body {
   background-color: powderblue;
 }
 h1 {
-  color: blue;
+  color: black;
+  background-color: blue;
+  text-align: center;
 }
